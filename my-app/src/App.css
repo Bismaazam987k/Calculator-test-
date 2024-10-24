@@ -1,0 +1,39 @@
+.container{
+  color: white;
+  background-color:purple;
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+.calculator{
+align-items: center;
+background-color: white;
+padding: 25px;
+border-radius: 20px;
+border: 5px solid plum;
+
+}
+form input{
+  border: 5px solid purple;
+  outline: none;
+   width: 60px;
+   height: 60px;
+  font-size: 30px;
+  margin: 2px;
+  font-weight: bold;
+  border-radius: 10px;
+background-color: plum;
+}
+.inp{
+  width: 240px;
+}
+.inp1{
+  width: 125px;
+}
+input:hover{
+  background-color: white;
+  cursor: pointer;
+}
