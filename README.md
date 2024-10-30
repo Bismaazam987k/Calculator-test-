@@ -1,25 +1,48 @@
-# Getting Started with Create React App
+# Calculator-Using-HTML-CSS-and-Javascript
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**Title:** "Calculator" is our application's title.
 
-## Available Scripts
+**Output Screen:** The output screen is where all text will be displayed. User inputs are typed and results are calculated based on that input. Again, we can consider this in two parts as follows:
+* **Question Output:**
+This will be the input given by the user.
+* **Answer Output:**
+This will be the result calculated from user input.
 
-In the project directory, you can run:
+**Operations:** This calculator can perform following operations which are listed below:
 
-### `npm start`
+```
+Addition
+Substraction
+Multiplication
+Division
+Persentage
+Square root
+```
+## File Structure
+```
+calc.js
+```
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Prerequisites: 
+* Basic knowledge of HTML, CSS and JavaScript needed. 
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+The project contains HTML, CSS, and JavaScript in React app. The HTML file adds structure, followed by styling using CSS and JavaScript adds functionality to it and for making validations to certain parts of the project.
 
-### `npm test`
+HTML layout is created using the div tags, id attributes, classes, input, and buttons for submission. It defines the structure of the web page.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Output:
 
-### `npm run build`
+### At First -
+
+![Calculator UI](https://github.com/rohitpandey49/Calculator-Using-HTML-CSS-and-Javascript/blob/037cb5aa5cc9058537ae8f119c2f35fd262d0cb1/Image/calculator.PNG)
+
+### After entering some data -
+
+![Calculator Input](https://github.com/rohitpandey49/Calculator-Using-HTML-CSS-and-Javascript/blob/037cb5aa5cc9058537ae8f119c2f35fd262d0cb1/Image/calculation.PNG)
+
+### Result - 
+
+![Result](https://github.com/rohitpandey49/Calculator-Using-HTML-CSS-and-Javascript/blob/037cb5aa5cc9058537ae8f119c2f35fd262d0cb1/Image/result.PNG)
 
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
