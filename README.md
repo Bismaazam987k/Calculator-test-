@@ -32,36 +32,7 @@ HTML layout is created using the div tags, id attributes, classes, input, and bu
 
 ## Output:
 
-### At First -
-
-![Calculator UI](https://github.com/rohitpandey49/Calculator-Using-HTML-CSS-and-Javascript/blob/037cb5aa5cc9058537ae8f119c2f35fd262d0cb1/Image/calculator.PNG)
-
-### After entering some data -
-
-![Calculator Input](https://github.com/rohitpandey49/Calculator-Using-HTML-CSS-and-Javascript/blob/037cb5aa5cc9058537ae8f119c2f35fd262d0cb1/Image/calculation.PNG)
-
-### Result - 
-
-![Result](https://github.com/rohitpandey49/Calculator-Using-HTML-CSS-and-Javascript/blob/037cb5aa5cc9058537ae8f119c2f35fd262d0cb1/Image/result.PNG)
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
+![Screenshot 2024-10-31 193026](https://github.com/user-attachments/assets/2562f99a-ccad-4640-a3d6-71385215921e)
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
